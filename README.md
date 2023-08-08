@@ -7,4 +7,6 @@ EmoteCraft installation Assistant (client). The creator is not responsible for t
 
 Вначале вы должы открыть файл .exe для установки загрузчика модов. (Если он у вас не установлен) Далее переносите файлы из папки /mods скачаного отсюда, в свою папку /mods майнкрафта.
 
+Эмоции кидать в папку /emotes
+
 # Эмоции можно качать здесь (https://emotes.kosmx.dev/emotes), а так-же искать паки в интернете.
