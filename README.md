@@ -5,6 +5,8 @@ EmoteCraft installation Assistant (client). The creator is not responsible for t
 
 ![637313795392276279](https://github.com/Zarlong/EmoteCraft_LC/assets/79041818/b15389b1-43fb-47a1-8f15-d38bf33f1d15)
 
+P.s. Все инструкции можно найти в файле README.md
+
 Чтобы установить EmoteCraft к себе, вам необходимо выбрать один из загрузчиков модов: forge/fabric
 
 В нашем релизе есть как версия для fabric, так и версиия для forge.
