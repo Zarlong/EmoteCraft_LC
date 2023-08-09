@@ -1,10 +1,9 @@
-[![Static Badge](https://img.shields.io/badge/-LITECRAFT-090909?style=for-the-badge&logo=ubuntu&logoColor=27A0D9)](https://www.litecraft.site)
+![637313795392276279](https://github.com/Zarlong/EmoteCraft_LC/assets/79041818/b15389b1-43fb-47a1-8f15-d38bf33f1d15)[![Static Badge](https://img.shields.io/badge/-LITECRAFT-090909?style=for-the-badge&logo=ubuntu&logoColor=27A0D9)](https://www.litecraft.site)
 
 # EmoteCraft_LC
 EmoteCraft installation Assistant (client). The creator is not responsible for these files, because he is not their developer, but all files have been checked by Kaspersky anti-virus.
 
-![Uploading 637313795392276279.png]()
-
+![Uploading 637313795392276279.png…]()
 
 Чтобы установить EmoteCraft к себе, вам необходимо выбрать один из загрузчиков модов: forge/fabric
 
